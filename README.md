@@ -27,7 +27,6 @@ Optional courses, which may add value, include:
 - Windows Privilege Escalation for Beginners
 
 ![403E4B41-E0BB-4246-8E2F-1C898078ECDD_1_105_c](https://user-images.githubusercontent.com/63926014/230752069-e03174fe-af9c-4e5c-8fd4-b0dad38bdc3c.jpeg)
-Link: https://tryhackme.com/room/breachingad
 
 ## Course Notes: 
 
@@ -37,5 +36,7 @@ Link: https://tryhackme.com/room/breachingad
 - [ ] Open-Source Intelligence (OSINT) Fundamentals
 - [ ] External Pentest Playbook
 - [ ] Movement, Pivoting and Persistence
-
+- [ ] Acitve recon(https://tryhackme.com/room/activerecon)
+- [ ] Passive recon(https://tryhackme.com/room/passiverecon)
+- [ ] AD attack (https://tryhackme.com/room/breachingad)
 ## Special Thanks to TCM Security for packing these courses with tons of value!
